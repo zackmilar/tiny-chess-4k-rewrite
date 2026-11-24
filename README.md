@@ -1,8 +1,8 @@
 # tiny-chess-4k
 
-[![Competition: tiny-chess-01](https://img.shields.io/badge/make.fun-tiny--chess--01-blue)](https://make.fun/bounty/tiny-chess-01)
-[![Rank](https://img.shields.io/badge/rank-top%2020%20goal-brightgreen)](https://github.com/zackmilar/tiny-chess-4k)
-[![Reward: $500 USDC prize pool](https://img.shields.io/badge/reward-%24500%20USDC-yellow)](https://make.fun/bounty/tiny-chess-01)
+[![tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/zackmilar/tiny-chess-4k-rewrite/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/zackmilar/tiny-chess-4k-rewrite/reward.svg)](https://make.fun/bounty/tiny-chess-01)
 
 A chess engine in under 4 KB of Python, built for the
 [make.fun tiny-chess-01 bounty](https://make.fun/bounty/tiny-chess-01).
